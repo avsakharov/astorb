@@ -1,13 +1,13 @@
-# Анализ распределения астероидов в Солнечной системе
+# Analysis the distribution of asteroids in the solar system
 
-## Данные
+## Data
 
-Для выполнения проекта были предоставлены следующие данные:
-- База данных Лоуэловской обсерватории
+The following data were provided for the project:
+- Lowell Observatory database
 
-## Задача
+## Objective
 
-Исследование распределений астероидов по различным параметрам орбиты по базе данных Лоуэловской обсерватории. Особое внимание уделялось кентаврам и койперовским объектам, среди которых искались астероиды с полярной орбитой.
+To investigate asteroid distributions for various orbital parameters using the Lowell Observatory database. Special attention was paid to Centaurs and Kuiper objects, among which asteroids with polar orbit were searched for.
 
-## Используемые библиотеки
+## Libraries used
 pandas, matplotlib, seaborn
